@@ -1,5 +1,4 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" 
-"http://www.w3.org/TR/html4/strict.dtd">
+<!DOCTYPE html>
 <html>
     <title >Freelancer Khairul</title>
     <link rel="icon" href="https://i.postimg.cc/Pq2cRvVr/Profile-Picture.jpg" type="image/x-icon"/>
