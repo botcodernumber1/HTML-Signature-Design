@@ -1,7 +1,5 @@
 <!DOCTYPE html>
 <html>
-    <title >Freelancer Khairul</title>
-    <link rel="icon" href="https://i.postimg.cc/Pq2cRvVr/Profile-Picture.jpg" type="image/x-icon"/>
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
